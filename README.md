@@ -35,29 +35,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anas-Blue&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Blue&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn Here]
-- 🌐 Portfolio: Coming Soon
-- 📧 Email: your-email@example.com
-
----
-
-## 🌟 Featured Projects
-
-🔹 [Project Name](https://github.com/username/project)  
-Short description of what it does.
-
-🔹 [Project Name](https://github.com/username/project)  
-Short description.
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-anas-40a606369/
+- 📧 Email: mohammedanas15126@gmail.com
 
 ---
 
