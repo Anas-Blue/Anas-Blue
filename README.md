@@ -19,7 +19,7 @@
 ### 💡 Languages
 - JavaScript
 - Python
-- C / C++
+- TypeScript
 
 ### 🌐 Web
 - HTML
